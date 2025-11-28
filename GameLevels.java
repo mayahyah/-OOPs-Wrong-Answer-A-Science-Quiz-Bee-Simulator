@@ -5,7 +5,7 @@ class GameLevels {
     private Player player;
     private Scanner scanner = new Scanner(System.in);
 
-    // ANSI COLORS
+    // Colors 
     private static final String RESET = "\u001B[0m";
     private static final String RED = "\u001B[31m";
     private static final String GREEN = "\u001B[32m";
@@ -17,9 +17,7 @@ class GameLevels {
         this.player = player;
     }
 
-    // ==========================
-    // CLEAR SCREEN METHOD
-    // ==========================
+    // Clear Screen Method
     public static void clearScreen() {
         try {
             if (System.getProperty("os.name").contains("Windows")) {
@@ -33,9 +31,7 @@ class GameLevels {
         }
     }
 
-    // ==========================
-    // LEVEL SELECTION MENU
-    // ==========================
+    // Level Selection Menu
     public void showLevelMenu() {
         while (true) {
 
@@ -110,9 +106,7 @@ class GameLevels {
         }
     }
 
-    // ==========================
-    // SCIENTIST SELECTION
-    // ==========================
+    // Scientist Selection
     private Scientists selectScientist() {
         while (true) {
             clearScreen();
@@ -144,7 +138,7 @@ class GameLevels {
                             "Can skip physics questions (2x per level).");
                 case 3:
                     pressEnter();
-                    return new Darwin(); // <── Darwin polymorphism
+                    return new Darwin(); 
                 case 4:
                     pressEnter();
                     return new Scientists("Sigmund Freud", 50, Scientists.Ability.REDUCE_QUESTION,
@@ -164,9 +158,7 @@ class GameLevels {
         }
     }
 
-    // ==========================
-    // PLAY LEVEL
-    // ==========================
+    // Quiz bee Start
     public boolean playLevel(int level) {
 
         clearScreen();
@@ -281,9 +273,7 @@ class GameLevels {
                     continue;
                 }
 
-                // ==========================
-                // WRONG ANSWER HANDLING
-                // ==========================
+                // If wrong answer...
                 printlnC(RED, "\nWrong Answer! Health -10");
                 s.modifyHealth(-10);
 
@@ -302,9 +292,7 @@ class GameLevels {
         return true;
     }
 
-    // ==========================
-    // INPUT + UTILITY
-    // ==========================
+    // Error Handling
     private int readInt() {
         while (true) {
             try {
@@ -325,3 +313,4 @@ class GameLevels {
         System.out.println(color + text + RESET);
     }
 }
+
