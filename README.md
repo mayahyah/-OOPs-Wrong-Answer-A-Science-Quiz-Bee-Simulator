@@ -174,7 +174,7 @@ Another is that Darwin also displays what ability he copied for each questions, 
     
 **4.	Extract the ZIP file to a folder (e.g., C:\Users\<YourName>\<ZIPfile>).**
     
-*Compile the Program*
+*Afterwards, compile the Program*
 
 **5.	Open VS Code or another compiler.**
     
@@ -182,7 +182,7 @@ Another is that Darwin also displays what ability he copied for each questions, 
     
 **7.	Open Main.java and click the Run button or open a New Terminal and type java Main.java.**
 
-To navigate the program:
+*To navigate the program:*
 
 **1.	Main Menu**\
         •	Shows unlocked levels and score.\
