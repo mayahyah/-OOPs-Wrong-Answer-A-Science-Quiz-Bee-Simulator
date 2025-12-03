@@ -176,7 +176,7 @@ Another is that Darwin also displays what ability he copied for each questions, 
 **6.	Select File, then choose Open Folder and choose the project folder.**\
 **7.	Open Main.java and click the Run button or open a New Terminal and type java Main.java.**
 
-### ***To navigate the program:***\
+### ***To navigate the program:***
 **1.	Main Menu**\
     •	Shows unlocked levels and score.\
     •	Enter 0 to quit.
