@@ -41,5 +41,5 @@ These encapsulated player information from Player.java can only be accessed thro
     
 Private fields from GameLevels.java are fully encapsulated, so they cannot be accessed directly outside the class and this protects them from unwanted modification. 
 
-<img width="504" height="167" alt="image" src="https://github.com/user-attachments/assets/9ea546fc-bbb3-4915-b7a8-400fef132156" /> \
+
 
