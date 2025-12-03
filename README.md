@@ -5,9 +5,10 @@
 The following are the detailed documentation of how the OOP principal were used throughout the program:
 ### *Encapsulation*
 <img width="435" height="244" alt="Screenshot 2025-12-03 095441" src="https://github.com/user-attachments/assets/62094d3f-5add-4b86-b782-9b4688267574" /> \
-The question content stays consistent and prevents unwanted modification, keeps data safe and controlled. 
+The Question.java stays consistent and prevents unwanted modification, keeping data safe and controlled. 
 
 <img width="527" height="303" alt="Screenshot 2025-12-03 095908" src="https://github.com/user-attachments/assets/deac891d-e295-4128-8543-ea2aa5f67de9" /> \
-These encapsulated player information as they advance through the game. It can only be accessed through the Getters() and Setters() functions.
+These encapsulated player information from Player.java can only be accessed through the Getters() and Setters() functions. These are necessary information that a player can accumulate as they advance through the game.
 
-
+<img width="450" height="64" alt="image" src="https://github.com/user-attachments/assets/f5a9c24a-a940-4879-a9ae-8d5e53860a00" /> \
+Private fields from GameLevels.java are fully encapsulated, so they cannot be accessed directly outside the class and this protects them from unwanted modification. 
