@@ -163,39 +163,39 @@ Another is that Darwin also displays what ability he copied for each questions, 
 
 ## ***How to Run the Program***
 *Prerequisites*
-    1.	Before running the program, make sure the Java JDK 17 or later is installed. Open your terminal and check installation:
+    1.	Before running the program, make sure the Java JDK 17 or later is installed. Open your terminal and check installation:\
     <img width="975" height="134" alt="image" src="https://github.com/user-attachments/assets/89971ab0-a6a4-4d3d-99d1-c240f42ea31c" />
-    •	If you see an error like “java is not recognized”, Java is not installed or not added to your system’s PATH. Download the JDK to https://www.oracle.com/asean/java/technologies/downloads/#jdk25-windows
-    2.	Go to the GitHub repository.
-    3.	Click the green Code button and Download ZIP.
-    4.	Extract the ZIP file to a folder (e.g., C:\Users\<YourName>\<ZIPfile>).
-*Compile the Program*
-    5.	Open VS Code or another compiler.
-    6.	Select File → Open Folder and choose the project folder.
-    7.	Open Main.java and click the Run button or open a New Terminal and type java Main.java.
+    •	If you see an error like “java is not recognized”, Java is not installed or not added to your system’s PATH. Download the JDK to https://www.oracle.com/asean/java/technologies/downloads/#jdk25-windows\
+    2.	Go to the GitHub repository.\
+    3.	Click the green Code button and Download ZIP.\
+    4.	Extract the ZIP file to a folder (e.g., C:\Users\<YourName>\<ZIPfile>).\
+*Compile the Program*\
+    5.	Open VS Code or another compiler.\
+    6.	Select File → Open Folder and choose the project folder.\
+    7.	Open Main.java and click the Run button or open a New Terminal and type java Main.java.\
 
-To navigate the program:
-Navigating the Program
-    1.	Main Menu
-        •	Shows unlocked levels and score.
-        •	Enter 0 to quit.
-    2.	Level Selection
-        •	Enter a number (1–10).
-        •	Locked levels require clearing previous ones.
-    3.	Scientist Selection
-    Choose from 6 scientists, each with unique abilities:
-        •	Galileo → Astronomy hints
-        •	Newton → Skip Physics (2 uses)
-        •	Darwin → Mimics random ability
-        •	Freud → Reduces 5 questions per level
-        •	Curie → +30 health at start
-        •	Lovelace → Heal +5 on correct answers 
-    4.	Answering Questions
-        •	Input a, b, c, or d.
-        •	Correct → +10 score
-        •	Wrong → -10 health
-        •	Health and score are shown after each question
-        •	Clear the level to unlock the next one
+To navigate the program:\
+Navigating the Program\
+    1.	Main Menu\
+        •	Shows unlocked levels and score.\
+        •	Enter 0 to quit.\
+    2.	Level Selection\
+        •	Enter a number (1–10).\
+        •	Locked levels require clearing previous ones.\
+    3.	Scientist Selection\
+    Choose from 6 scientists, each with unique abilities:\
+        •	Galileo → Astronomy hints\
+        •	Newton → Skip Physics (2 uses)\
+        •	Darwin → Mimics random ability\
+        •	Freud → Reduces 5 questions per level\
+        •	Curie → +30 health at start\
+        •	Lovelace → Heal +5 on correct answers \
+    4.	Answering Questions\
+        •	Input a, b, c, or d.\
+        •	Correct → +10 score\
+        •	Wrong → -10 health\
+        •	Health and score are shown after each question\
+        •	Clear the level to unlock the next one\
 
 
 
