@@ -81,4 +81,8 @@ Applied by keeping the variables name and health private and exposing them only 
 
     public class Darwin extends Scientists {
     
-A class to acquire fields and methods from another class, Darwin class inherits from the Scientists class and it gains all attributes such as name, health, ability, description, and methods like getAbility(). 
+A class to acquire fields and methods from another class, Darwin class from Darwin.java inherits from the Scientists class (from Scientiists.java) and it gains all attributes such as name, health, ability, description, and methods like getAbility(). 
+
+    public class Scientists extends GameCharacter implements ScientistAbility {
+
+Scientists from Scientists.java extends GameCharacter, meaning it automatically receives all attributes and behaviors of a GameCharacter without rewriting them.
