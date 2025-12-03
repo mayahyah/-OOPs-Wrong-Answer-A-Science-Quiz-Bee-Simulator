@@ -4,7 +4,7 @@
 ## ***Object-Oriented Programming Concepts Applied***
 The following are the detailed documentation of how the OOP principal were used throughout the program:
 ### *Encapsulation*
-[<img width="435" height="244" alt="Screenshot 2025-12-03 095441" src="https://github.com/user-attachments/assets/62094d3f-5add-4b86-b782-9b4688267574" />](https://github.com/mayahyah/-OOPs-Wrong-Answer-A-Quiz-Bee-Game-Simulator/blob/b209d67b84c645fa429509f02ab963541d685442/Question.java#L2C1-L5C29) \
+https://github.com/mayahyah/-OOPs-Wrong-Answer-A-Quiz-Bee-Game-Simulator/blob/b209d67b84c645fa429509f02ab963541d685442/Question.java#L2C1-L5C29 \
 The Question.java stays consistent and prevents unwanted modification, keeping data safe and controlled. 
 
 <img width="527" height="303" alt="Screenshot 2025-12-03 095908" src="https://github.com/user-attachments/assets/deac891d-e295-4128-8543-ea2aa5f67de9" /> \
