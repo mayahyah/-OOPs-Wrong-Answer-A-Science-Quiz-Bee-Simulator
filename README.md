@@ -255,4 +255,4 @@ EBREO, HENRY L.
 Special thanks to **Mr. Jayson Abratique** in guiding these young programmers through introducing OOP concepts which are necessary in completing this project.
 
 ## ***Future Enhancements***
-Future programmers may integrate a functional GUI which complements the overall essence of the console-based game. They may add illustrations of the scientists so that players can fully immerse themselves in the world of Science and its branched topics.
+Future programmers may integrate a functional GUI which complements the overall essence of the console-based game. They may add illustrations of the scientists so that players can fully immerse themselves in the world of Science and its branched topics. They can also add more levels of various difficulties as the current game only has 10. This is to ensure players the best experience and further establish a deeper player-game relationship as players complete more levels.
