@@ -80,11 +80,26 @@ In GamaCharacter.java, encapsulation is applied by keeping the variables name an
     private Ability ability;
     private String description;
 
-
     private int skipUses = 2;
     private boolean extraLifeGranted = false;
 
-Lastly, the same can be observed from Scientists.java. It introduces private variables which can only be accessed through setter() and getter() methods.
+    public Ability getAbility() {
+        return ability;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public int getSkipUses() {
+        return skipUses;
+    }
+
+    public boolean isExtraLifeGrantedThisLevel() {
+        return extraLifeGranted;
+    }
+
+Lastly, the same can be observed from Scientists.java. It introduces private variables which can only be accessed through setter() and getter() methods shown above.
 
 ### *Inheritance*
 
