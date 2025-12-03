@@ -33,7 +33,6 @@ The Question.java stays consistent and prevents unwanted modification, keeping d
     public Scientists getScientist() {
         return scientist;
     }
-
 These encapsulated player information from Player.java can only be accessed through the Getters() and Setters() functions. These are necessary information that a player can accumulate as they advance through the game.
 
 <img width="450" height="64" alt="image" src="https://github.com/user-attachments/assets/f5a9c24a-a940-4879-a9ae-8d5e53860a00" /> \
