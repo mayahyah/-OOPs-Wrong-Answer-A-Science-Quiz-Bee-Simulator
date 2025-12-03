@@ -41,5 +41,9 @@ These encapsulated player information from Player.java can only be accessed thro
     
 Private fields from GameLevels.java are fully encapsulated, so they cannot be accessed directly outside the class and this protects them from unwanted modification. 
 
+    private String name;
+    private int health;
+
+    
 
 
