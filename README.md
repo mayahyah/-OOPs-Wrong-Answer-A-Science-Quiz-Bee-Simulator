@@ -86,3 +86,7 @@ A class to acquire fields and methods from another class, Darwin class from Darw
     public class Scientists extends GameCharacter implements ScientistAbility {
 
 Scientists from Scientists.java extends GameCharacter, meaning it automatically receives all attributes and behaviors of a GameCharacter without rewriting them.
+
+### *Abstraction*
+
+
