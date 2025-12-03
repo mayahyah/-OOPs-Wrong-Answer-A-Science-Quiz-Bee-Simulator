@@ -170,7 +170,7 @@ Another is that Darwin also displays what ability he copied for each questions, 
 **3.	Click the green Code button and Download ZIP.**\
 **4.	Extract the ZIP file to a folder (e.g., C:\Users\<YourName>\<ZIPfile>).**
     
-*Afterwards, compile the Program*
+*Afterwards, compile the Program*\
 **5.	Open VS Code or another compiler.**\
 **6.	Select File, then choose Open Folder and choose the project folder.**\
 **7.	Open Main.java and click the Run button or open a New Terminal and type java Main.java.**
