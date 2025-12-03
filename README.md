@@ -210,43 +210,43 @@ Choose from 6 scientists, each with unique abilities:\
 
 ## ***Sample Output***
 **1.	Level Selection Screen**\
-Shows unlocked levels and score.
+Shows unlocked levels and score.\
 <img width="975" height="293" alt="image" src="https://github.com/user-attachments/assets/1d415972-2360-471d-9994-8aeb672298c7" />
 
 **2.	Scientist Selection**\
-Menu of scientists and their abilities.
+Menu of scientists and their abilities.\
 <img width="975" height="196" alt="image" src="https://github.com/user-attachments/assets/debfed71-e4d0-4230-bfd7-ab407bc6b0de" />
 
 **3.	Curie’s Extra Life**\
-Curie grants +30 health at level start.
+Curie grants +30 health at level start.\
 <img width="531" height="342" alt="image" src="https://github.com/user-attachments/assets/209166d1-8859-4d2b-bd6c-467a7c828932" />
 
 **4.	Galileo Hint**\
-Hint shown for astronomy questions.
+Hint shown for astronomy questions.\
 <img width="623" height="79" alt="image" src="https://github.com/user-attachments/assets/46db3d5d-fa43-43f5-9608-dab87bc517f0" />
 
 **5.	Newton Skip**\
-Skip prompt for physics questions.
+Skip prompt for physics questions.\
 <img width="922" height="286" alt="image" src="https://github.com/user-attachments/assets/1ce78081-aef7-4631-9795-e88b3ffcd0a1" />
 
 **6.	Darwin Mimic**\
-Darwin mimics a random ability each question.
+Darwin mimics a random ability each question.\
 <img width="516" height="315" alt="image" src="https://github.com/user-attachments/assets/194a86ec-6b85-4f1c-aceb-193e4dcc6062" />
 
 **7.	Lovelace Heal**\
-Correct answers heal +5 health.
+Correct answers heal +5 health.\
 <img width="478" height="92" alt="image" src="https://github.com/user-attachments/assets/dd5b1ce3-2832-4b47-b3af-aa3489354f19" />
 
 **8.	Wrong Answer Penalty**\
-Wrong answers reduce health.
+Wrong answers reduce health.\
 <img width="453" height="89" alt="image" src="https://github.com/user-attachments/assets/56468a91-823b-407e-85cd-070d5d5cefd4" />
 
 **9.	Level Cleared**\
-Unlocks next level.
+Unlocks next level.\
 <img width="406" height="70" alt="image" src="https://github.com/user-attachments/assets/202b1ca8-3066-4154-865a-292c49f37312" />
 
 **10.	Final Level Completed**\
-Congratulations banner after clearing level 10.
+Congratulations banner after clearing level 10.\
 <img width="680" height="125" alt="image" src="https://github.com/user-attachments/assets/07e08d5c-e138-423b-9e7d-7dad45a59719" />
 
 
