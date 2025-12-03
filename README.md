@@ -77,6 +77,15 @@ Private fields from GameLevels.java are fully encapsulated, so they cannot be ac
 
 In GamaCharacter.java, encapsulation is applied by keeping the variables name and health private and exposing them only through public methods, which protects the internal data of the character and allows controlled access. 
 
+    private Ability ability;
+    private String description;
+
+
+    private int skipUses = 2;
+    private boolean extraLifeGranted = false;
+
+Lastly, the same can be observed from Scientists.java. It introduces private variables which can only be accessed through setter() and getter() methods.
+
 ### *Inheritance*
 
     public class Darwin extends Scientists {
