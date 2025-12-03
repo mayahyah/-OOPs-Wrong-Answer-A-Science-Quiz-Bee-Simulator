@@ -178,7 +178,7 @@ Another is that Darwin also displays what ability he copied for each questions, 
 
 **5.	Open VS Code or another compiler.**
     
-**6.	Select File → Open Folder and choose the project folder.**
+**6.	Select File, then choose Open Folder and choose the project folder.**
     
 **7.	Open Main.java and click the Run button or open a New Terminal and type java Main.java.**
 
@@ -194,17 +194,17 @@ Another is that Darwin also displays what ability he copied for each questions, 
         
 **3.	Scientist Selection**\
     Choose from 6 scientists, each with unique abilities:\
-        •	Galileo → Astronomy hints\
-        •	Newton → Skip Physics (2 uses)\
-        •	Darwin → Mimics random ability\
-        •	Freud → Reduces 5 questions per level\
-        •	Curie → +30 health at start\
-        •	Lovelace → Heal +5 on correct answers 
+        •	Galileo Galilei → Astronomy hints\
+        •	Isaac Newton → Skip Physics (2 uses)\
+        •	Charles Darwin → Mimics random ability\
+        •	Sigmund Freud → Reduces 5 questions per level\
+        •	Marie Curie → +30 health at start\
+        •	Ada Lovelace → Heal +5 on correct answers 
         
 **4.	Answering Questions**\
         •	Input a, b, c, or d.\
-        •	Correct → +10 score\
-        •	Wrong → -10 health\
+        •	Correct = +10 score\
+        •	Wrong = -10 health\
         •	Health and score are shown after each question\
         •	Clear the level to unlock the next one
 
