@@ -5,4 +5,4 @@
 The following are the detailed documentation of how the OOP principal were allthroughout the program:
 ### *Encapsulation*
 <img width="435" height="244" alt="Screenshot 2025-12-03 095441" src="https://github.com/user-attachments/assets/62094d3f-5add-4b86-b782-9b4688267574" /> \
-\nThe question content stays consistent and prevents unwanted modification, keeps data safe and controlled. 
+The question content stays consistent and prevents unwanted modification, keeps data safe and controlled. 
